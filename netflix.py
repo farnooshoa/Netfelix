@@ -18,3 +18,4 @@ max_count = counts.max()
 # Find the durations with the maximum count
 durations = counts[counts == max_count]
 print(durations)
+
