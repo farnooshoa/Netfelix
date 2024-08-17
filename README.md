@@ -1,5 +1,11 @@
-## Perform exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade.
+## Project Overview: Analyzing 1990s Movies on Netflix
 
- * What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration.
+In this project, I used the netflix_data.csv dataset to explore movies from the 1990s, aligning with a production company's focus on nostalgic styles.
 
- * A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
+Key Contributions:
+
+* 1990s Movie Trends: I analyzed key trends, genres, and standout films from the decade to inform the company's content strategy.
+
+* Data-Driven Insights: The analysis provided valuable insights into 1990s films, supporting the company's creative decisions.
+
+This project enhances understanding of 1990s cinema on Netflix, aiding in content development.
